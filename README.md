@@ -47,6 +47,8 @@ La aplicación permite:
      - Uso de Picklist para el selector de la Categoría.
      
      - Uso de Expression Builder para las validicaciones extras cómo la prioridad y el email.
+       
+     - Uso de validaciones propias de Liferay para el tamaño de los carácteres. (Se me olvidó mostrar en demo porque es algo interno, adjunto captura de pantalla)
 
      ## Limitaciones Documentadas:
      
