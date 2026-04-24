@@ -57,3 +57,4 @@ La aplicación permite:
 - [Expression Builder](https://learn.liferay.com/w/dxp/low-code/objects/creating-and-managing-objects/validations/expression-builder-validations-reference)
 
      ## Video Demo
+  - [Descargar vídeo demo](https://github.com/MacarenaStNTTDATA/ejercicio2/releases/tag/video)
